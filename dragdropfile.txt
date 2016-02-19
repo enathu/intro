@@ -1,0 +1,1 @@
+Testing drag and drop file.
